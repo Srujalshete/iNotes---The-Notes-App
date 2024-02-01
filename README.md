@@ -33,8 +33,8 @@ Powered by PHP, MySQL, and XAMPP, iNotes leverages cutting-edge web technologies
 Join our growing community of note-takers. Sign up today to elevate your note-taking experience with iNotes—where simplicity, security, and efficiency converge.
 
 *Note: iNotes is continually evolving, with regular updates to enhance your experience. Thank you for choosing iNotes as your trusted note-taking companion!*****
+ <img width="1433" alt="Screenshot 2024-02-01 at 5 28 20 PM" src="https://github.com/Srujalshete/iNotes---The-Notes-App/assets/67551839/9a47a867-492d-409f-868e-a11688890d8d">
 
- <img width="1433" alt="Screenshot 2024-02-01 at 5 28 20 PM" src="https://github.com/Srujalshete/iNotes---The-Notes-App/assets/67551839/ea93ad60-0fe6-429c-ac66-f249faeeac7b">
 **Setting Up iNotes - Quick Guide**
 
 1. **XAMPP Installation:**
