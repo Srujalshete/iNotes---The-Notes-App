@@ -1,5 +1,6 @@
 # iNotes---The-Notes-App
 
+<img width="1435" alt="Screenshot 2024-02-01 at 5 28 04 PM" src="https://github.com/Srujalshete/iNotes---The-Notes-App/assets/67551839/0da54bdd-de1e-47ce-847b-4a84cba78024">
 
 
 **iNotes: Your Essential Note-Taking Solution!**
