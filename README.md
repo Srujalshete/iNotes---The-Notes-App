@@ -34,7 +34,7 @@ Join our growing community of note-takers. Sign up today to elevate your note-ta
 
 *Note: iNotes is continually evolving, with regular updates to enhance your experience. Thank you for choosing iNotes as your trusted note-taking companion!*****
 
-![Uploading Screenshot 2024-02-01 at 5.28.20 PM.png…]()
+ <img width="1433" alt="Screenshot 2024-02-01 at 5 28 20 PM" src="https://github.com/Srujalshete/iNotes---The-Notes-App/assets/67551839/ea93ad60-0fe6-429c-ac66-f249faeeac7b">
 **Setting Up iNotes - Quick Guide**
 
 1. **XAMPP Installation:**
